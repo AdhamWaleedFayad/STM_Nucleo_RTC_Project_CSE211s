@@ -38,6 +38,15 @@ This embedded systems project uses the **NUCLEO-F401RE** board with an **Arduino
 - [Mbed Studio](https://os.mbed.com/studio/) or STM32CubeIDE
 - STM32 NUCLEO board libraries and drivers
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/04045425-ad11-4d25-978a-69b1cf61f7b9">
+  <img src="https://github.com/user-attachments/assets/c8629a57-b736-4b60-bd98-f1bf99c9fff9" alt="Watch the video" width="600"/>
+  </a>
+
+</p>
+
 ## 📦 Getting Started
 
 1. Clone this repository:
