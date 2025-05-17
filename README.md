@@ -45,6 +45,6 @@ This embedded systems project uses the **NUCLEO-F401RE** board with an **Arduino
    git clone https://github.com/AdhamWaleedFayad/STM_Nucleo_RTC_Project_CSE211s.git
 
 ## 🧑‍💻 Contributers
-- [@AdhamWaleedFayad]
-- [@Marwanmahmoud02]
-- [@Omar61554]
+- [@AdhamWaleedFayad](https://github.com/AdhamWaleedFayad)
+- [@Marwanmahmoud02](https://github.com/Marwanmahmoud02)
+- [@Omar61554](https://github.com/Omar61554)
